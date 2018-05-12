@@ -1,0 +1,31 @@
+_repo: In-the-World-War_18160
+_version: 0.1.0
+alternative_title: Im Weltkriege. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Czernin von und zu Chudenitz, Ottokar Theobald Otto Maria, Graf
+    alias: Czernin, Ottokar, Graf
+    birthdate: 1872
+    deathdate: 1932
+    gutenberg_agent_id: '7843'
+    url: http://www.gutenberg.org/2009/agents/7843
+    wikipedia: http://en.wikipedia.org/wiki/Ottokar_Graf_Czernin
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Austria -- Politics and government -- 1867-1918'
+title: In the World War
+url: http://www.gutenberg.org/ebooks/18160
