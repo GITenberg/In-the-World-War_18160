@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7843
     wikipedia: http://en.wikipedia.org/wiki/Ottokar_Graf_Czernin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18160#In-the-World-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-04-12'
 gutenberg_type: Text
